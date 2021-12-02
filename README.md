@@ -1,8 +1,8 @@
-<h1 align="center"> Hello Devs 👋, I'm <a href="https://twitter.com/Artronico26">Steeve!👨🏻‍💻</a></h1>
+<h1 align="center"> Hello, I'm <a href="https://twitter.com/Artronico26">Erick!👨🏻‍💻</a></h1>
 <h3 align="center">🙂Welcome to my profile, I am very happy for your visit.🙂</h3>
 
 
-I'm <a href="https://twitter.com/Artronico26">Steeve Bernard</a>, I am a very ✨handsome young programmer✨, I currently work with Frontend and Backend developer using <a href="https://flutter.dev/?gclsrc=ds&gclsrc=ds">Flutter</a> technology for Frontend development, and <a href="https://www.djangoproject.com/">Django</a> for Backend, I also develop micro services and Restful API with <a href="https://www.python.org/">Python</a>.
+I'm <a href="https://www.linkedin.com/in/erick-stelo-a49951186/">Erick Stelo</a>, I am a very ✨handsome young programmer✨, I currently work with Frontend and Backend developer using <a href="https://flutter.dev/?gclsrc=ds&gclsrc=ds">Flutter</a> technology for Frontend development, and <a href="https://www.djangoproject.com/">Django</a> for Backend, I also develop micro services and Restful API with <a href="https://www.python.org/">Python</a>.
 
 <h1 align="center"></a></h1>
 <br>
@@ -10,9 +10,9 @@ I'm <a href="https://twitter.com/Artronico26">Steeve Bernard</a>, I am a very �
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steevepypro&layout=compact&theme=tokyonight" alt="Steeve Github Stats">
 </p>
 <p align="center">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=steevepypro&show_icons=true&theme=tokyonight&include_all_commits=true" 
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=erickstelo&show_icons=true&theme=tokyonight&include_all_commits=true" 
 alt="Steeve Github Stats"> -->
-<!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=steevepypro&show_icons=true&include_all_commits=true&theme=tokyonight" 
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=erickstelo&show_icons=true&include_all_commits=true&theme=tokyonight" 
 alt="Steeve Github Stats"> -->
 </p>
 <h1 align="center"></a></h1>
