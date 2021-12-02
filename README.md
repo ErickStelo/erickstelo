@@ -68,7 +68,7 @@ alt="Steeve Github Stats"> -->
 <a href="https://www.linkedin.com/in/erick-stelo-a49951186"><img src="https://img.shields.io/badge/-Erick_Stelo-blue?logo=linkedin&style=flat-square"></a>
 <a href="https://www.instagram.com/erick_stelo"><img src="https://img.shields.io/badge/-Erick_Stelo-pink?logo=instagram&style=flat-square"/></a>
 <a href="mailto:steloerick@gmail.com"><img src="https://img.shields.io/badge/-steloerick@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/erickvstelo"><img src="https://img.shields.io/badge/-Erick_Stelo?logo=twitter&style=flat-square"/></a>
+<a href="https://twitter.com/erickvstelo"><img src="https://img.shields.io/badge/-Erick_Stelo-blue?logo=twitter&style=flat-square"/></a>
 </p>
 
 ##### Last Edited on: 02/02/2021
