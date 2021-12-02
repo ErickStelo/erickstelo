@@ -53,7 +53,7 @@ alt="Steeve Github Stats"> -->
 <img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
 </td>
 <td align="center" width="33%">
-<img height=60px src="https://e7.pngegg.com/pngimages/809/483/png-clipart-php-php.png"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> 
 </td>
   <td align="center" width="33%">
 </td>
