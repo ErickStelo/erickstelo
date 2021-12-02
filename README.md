@@ -3,7 +3,7 @@
 <h3 align="center">🙂Welcome to my profile, I am very happy for your visit.🙂</h3>
 
 
-I'm <a href="https://www.linkedin.com/in/erick-stelo-a49951186/">Erick Stelo</a>, I currently work with Frontend and Backend developer using Java Script technology for backend development, I also develop micro services and Restful API with this technology.
+I'm <a href="https://www.linkedin.com/in/erick-stelo-a49951186/">Erick Stelo</a>, I currently work with Frontend and Backend developer using Java Script technology, I also develop micro services and Restful API with this technology.
 
 <h1 align="center"></a></h1>
 <br>
