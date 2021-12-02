@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello, I'm <a href="https://twitter.com/Artronico26">Erick!👨🏻‍💻</a></h1>
+<h1 align="center"> Hello, I'm <a href="https://twitter.com/erickvstelo">Erick!👨🏻‍💻</a></h1>
 <h3 align="center">🙂Welcome to my profile, I am very happy for your visit.🙂</h3>
 
 
@@ -46,9 +46,15 @@ alt="Steeve Github Stats"> -->
 <img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
 </td>
 </tr>
+  
 <tr>
+  <td align="center" width="33%">
+</td>
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
+</td>
+<td align="center" width="33%">
+<img height=60px src="https://e7.pngegg.com/pngimages/809/483/png-clipart-php-php.png"> 
 </td>
 </tr>
 </tbody>
@@ -58,11 +64,11 @@ alt="Steeve Github Stats"> -->
 
 ## Connect with me. :smiley:
 <p align="center">
-<a href="https://github.com/erickstelo"><img src="https://img.shields.io/badge/-Steeve_Bernard-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/steeve-bernard-barthelemy-35579710a/"><img src="https://img.shields.io/badge/-Steeve_Bernard-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://www.instagram.com/steevedevops"><img src="https://img.shields.io/badge/-Steeve_DevOps-pink?logo=instagram&style=flat-square"/></a>
-<a href="mailto:barthelemysteevebernard@gmail.com"><img src="https://img.shields.io/badge/-steevedevops@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/Artronico26"><img src="https://img.shields.io/badge/-Steeve_B-blue?logo=twitter&style=flat-square"/></a>
+<a href="https://github.com/erickstelo"><img src="https://img.shields.io/badge/-Erick_Stelo-black?logo=github&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/erick-stelo-a49951186"><img src="https://img.shields.io/badge/-Erick_Stelo-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://www.instagram.com/erick_stelo"><img src="https://img.shields.io/badge/-Erick_Stelo-pink?logo=instagram&style=flat-square"/></a>
+<a href="mailto:steloerick@gmail.com"><img src="https://img.shields.io/badge/-steloerick@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="https://twitter.com/erickvstelo"><img src="https://img.shields.io/badge/-Erick_Stelo?logo=twitter&style=flat-square"/></a>
 </p>
 
-##### Last Edited on: 31/08/2021
+##### Last Edited on: 02/02/2021
