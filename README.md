@@ -52,7 +52,8 @@ alt="Steeve Github Stats"> -->
     <img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
     </td>
     <td align="center" width="33%">
-    <img height=60px src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"> 
+    <img height=80px src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"><br>
+    <img height=30px src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
     </td>
       <td align="center" width="33%">
     </td>
