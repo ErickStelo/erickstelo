@@ -18,10 +18,10 @@ alt="Erick Github Stats">
 <h1 align="center"></a></h1>
 
 <h3 align="center">🙂My Skills.:computer:</h3>
-<table align="center" border='0'>
+<table align="center">
 <tbody>
 
-<tr style="background-color: #fff;">
+<tr>
     <td align="center">
         <img height=60px src="https://vuejs.org/images/logo.svg"> 
     </td>
@@ -35,7 +35,7 @@ alt="Erick Github Stats">
         <img height=60px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
     </td>
 </tr>
-<tr style="background-color: #fff;">
+<tr>
     <td align="center">
     <img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
     </td>
@@ -66,4 +66,4 @@ alt="Erick Github Stats">
 <a href="https://discordapp.com/users/252821946625032192"><img src="https://img.shields.io/badge/-Starkss%238633-blue?logo=discord&color=6f84d2&logoColor=fff&style=for-the-badge"/></a>
 </p>
 
-##### Last Edited on: 02/02/2021
+##### Last Edited on: 06/01/2022
