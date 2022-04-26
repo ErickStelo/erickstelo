@@ -23,7 +23,7 @@ alt="Erick Github Stats">
 
 <tr>
     <td align="center">
-        <img height=60px src="https://vuejs.org/images/logo.svg"> 
+        <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"> 
     </td>
     <td align="center">
         <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
