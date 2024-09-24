@@ -17,7 +17,7 @@ alt="Erick Github Stats"> -->
 </p>
 <h1 align="center"></a></h1>
 
-<h3 align="center">🙂My Skills. :computer:</h3>
+<h3 align="center">🙂 My Skills :computer:</h3>
 <table align="center">
 <tbody>
 
