@@ -12,12 +12,12 @@ I'm <a href="https://www.linkedin.com/in/erick-stelo-a49951186/">Erick Stelo</a>
 
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=erickstelo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&layout=compact" 
-alt="Erick Github Stats">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=erickstelo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&layout=compact" 
+alt="Erick Github Stats"> -->
 </p>
 <h1 align="center"></a></h1>
 
-<h3 align="center">🙂My Skills.:computer:</h3>
+<h3 align="center">🙂My Skills. :computer:</h3>
 <table align="center">
 <tbody>
 
