@@ -66,4 +66,4 @@ alt="Erick Github Stats"> -->
 <a href="https://discordapp.com/users/252821946625032192"><img src="https://img.shields.io/badge/-Starkss%238633-blue?logo=discord&color=6f84d2&logoColor=fff&style=for-the-badge"/></a>
 </p>
 
-##### Last Edited on: 06/01/2022
+##### Last Edited on: 24/09/2024
