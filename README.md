@@ -46,12 +46,11 @@
 
 ---
 
-### 📈 GitHub Stats
+<!-- ### 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickstelo&show_icons=true&theme=tokyonight&include_all_commits=true&layout=compact&hide_border=true" alt="Erick's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickstelo&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
